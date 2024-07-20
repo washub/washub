@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mohammad Wasique Umar aspire to solve problems and like to seek knowledge in depth. 
 - 👀 I’m interested in doing coding and developing webapplication.
-- 🌱 I’m currently working on .NET Core & Angular Fullstack.
-- 💞️ I’m looking to collaborate on .Net related stuffs.
+- 🌱 I’m currently working as Springboot and microservices backend developer.
+- 🌱 I'm also having handson on React for frontend.
+- 💞️ I’m looking to collaborate on springboot related stuffs.
 - 📫 You can reach me @ wumar42@gmail.com
 
 <!---
